@@ -1,53 +1,51 @@
 @ font-face {
   font-family: nunito;
-  src: url(/fonts/nunito/Nunito-Regular.ttf);
+  src: url(/fonts/nunito/Nunito-Regular.woff);
   font-weight: normal;
   font-style: normal;
 }
 @ font-face {
   font-family: nunito;
-  src: url(/fonts/nunito/Nunito-Bold.ttf);
+  src: url(/fonts/nunito/Nunito-Bold.woff);
   font-weight: bold;
   font-style: normal;
 }
 @ font-face {
   font-family: nunito;
-  src: url(/fonts/nunito/Nunito-Italic.ttf);
+  src: url(/fonts/nunito/Nunito-Italic.woff);
   font-weight: normal;
   font-style: italic;
 }
 @ font-face {
   font-family: nunito;
-  src: url(/fonts/nunito/Nunito-BoldItalic.ttf);
+  src: url(/fonts/nunito/Nunito-BoldItalic.woff);
   font-weight: bold;
   font-style: italic;
 }
-
 @ font-face {
   font-family: montserrat;
-  src: url(/fonts/montserrat/Montserrat-Regular.ttf);
+  src: url(/fonts/montserrat/Montserrat-Regular.woff);
   font-weight: normal;
   font-style: normal;
 }
 @ font-face {
   font-family: montserrat;
-  src: url(/fonts/montserrat/Montserrat-Bold.ttf);
+  src: url(/fonts/montserrat/Montserrat-Bold.woff);
   font-weight: bold;
   font-style: normal;
 }
 @ font-face {
   font-family: montserrat;
-  src: url(/fonts/montserrat/Montserrat-Italic.ttf);
+  src: url(/fonts/montserrat/Montserrat-Italic.woff);
   font-weight: normal;
   font-style: italic;
 }
 @ font-face {
   font-family: montserrat;
-  src: url(/fonts/montserrat/Montserrat-BoldItalic.ttf);
+  src: url(/fonts/montserrat/Montserrat-BoldItalic.woff);
   font-weight: bold;
   font-style: italic;
 }
-
 h1 {
   font-family: montserrat;
 }
