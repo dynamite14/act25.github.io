@@ -1,21 +1,73 @@
+@font-face {
+  font-family: barlow;
+  src: url(/fonts/barlow/Barlow-Regular.woff);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: barlow;
+  src: url(/fonts/barlow/Barlow-Bold.woff);
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: barlow;
+  src: url(/fonts/barlow/Barlow-Italic.woff);
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: barlow;
+  src: url(/fonts/barlow/Barlow-BoldItalic.woff);
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: barlow;
+  src: url(/fonts/barlow/Barlow-Regular.woff);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: barlow;
+  src: url(/fonts/barlow/Barlow-Bold.woff);
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: barlow;
+  src: url(/fonts/barlow/Barlow-Italic.woff);
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: barlow;
+  src: url(/fonts/barlow/Barlow-BoldItalic.woff);
+  font-weight: bold;
+  font-style: italic;
+}
 h1 {
-  font-family: arial;
+  font-family: barlow;
 }
 h2 {
-  font-family: arial;
+  font-family: barlow;
 }
 h3 {
-  font-family: arial;
+  font-family: barlow;
 }
 h4 {
-  font-family: arial;
+  font-family: barlow;
 }
+
 p {
-  font-family: arial;
+  font-family: barlow;
 }
 a {
-  font-family: arial;
+  font-family: barlow;
+}
+b {
+  font-family: barlow;
 }
 div {
-  font-family: arial;
+  font-family: barlow;
 }
