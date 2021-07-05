@@ -80,6 +80,7 @@ div {
   width: 600px;
   padding: 15px;
   margin: 20px;
+  margin-left: auto;
   background-image: url("/images/hexa-background.jpg");
   background-color:white;
   background-size: 100%;
