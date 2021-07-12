@@ -85,7 +85,7 @@ html {
   }
 
   .mobiletext {
-    font-size: 1em;
+    font-size: 12px;
   }
 }
 
@@ -144,4 +144,6 @@ footer, header, hgroup, menu, nav, section {
 
 .mobiletext {
   font-size: 0pt;
+  padding: 0px;
+  margin: 0px;
 }
