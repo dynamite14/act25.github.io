@@ -94,6 +94,7 @@ html {
 
 :root {
   --bgcolor: rgb(208, 243, 255);
+  --raw-bgcolor: 208, 243, 255;
 }
 
 /* specific defaults */
