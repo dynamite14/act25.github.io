@@ -75,19 +75,18 @@ html {
   font-size: 100%;
 }
 
-/*  and (max-width: 768px) */
 /* mobile! */
-@media only screen {
+@media only screen and (max-width: 768px) {
   html {
-    font-size: 120%;
+    font-size: 120%; !important
   }
 
   .box, .bgbox, .txt {
-    width: 80%;
+    width: 80%; !important
   }
 
   .mobiletext {
-    font-size: 12pt;
+    font-size: 12pt; !important
   }
 }
 
