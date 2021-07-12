@@ -92,6 +92,10 @@ html {
 }
 */
 
+:root {
+  --bg-color: rgb(208, 243, 255);
+}
+
 /* specific defaults */
 a {
   color: blue;
@@ -100,7 +104,7 @@ a {
 }
 
 body {
-  background-color: rgb(208, 243, 255);
+  background-color: var(--bg-color);
 }
 
 ul {
