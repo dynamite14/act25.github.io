@@ -75,6 +75,20 @@ html {
   font-size: 100%;
 }
 
+@media (max-width: 480px) {
+  html {
+    font-size: 120%;
+  }
+
+  .box, .bgbox, .txt {
+    width: 80%;
+  }
+
+  .mobiletext {
+    font-size: 1em;
+  }
+}
+
 /* specific defaults */
 a {
   color: blue;
@@ -126,4 +140,8 @@ footer, header, hgroup, menu, nav, section {
   width: 600px;
   padding: 10px;
   margin: auto;
+}
+
+.mobiletext {
+  font-size: 0pt;
 }
